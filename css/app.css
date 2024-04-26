@@ -7,6 +7,10 @@ html, body {
 h1 {
     font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
     font-size: 1.8em;
+    border-bottom: 1px solid white;
+    width: 470px;
+    margin: 0 0 20px 0;
+    letter-spacing: 4px;
 }
 
 h1:focus {
@@ -169,10 +173,11 @@ button.lowerrating {
 
 button.removeplane {
     font-size: 1.2em;
+    vertical-align: top;
 }
 
 button.addplane {
-    margin: 16px 0 20px 88px;
+    margin: 20px 0px 0px 0px;
     padding: 0 38px 0 38px;
     height: 40px;
     text-align: center;
@@ -184,8 +189,29 @@ button:hover {
     background-image: linear-gradient(135deg, #FF7E31, #E62C03);
     }
 
-.rawbr,.currentbr {
-    color: #0F0;
+
+.td-left {
+    vertical-align: top;
+    width: 250px;
+}
+
+.td-right {
+    vertical-align: top;
+    text-align: left;
+}
+
+.rawbrtext, .currentbrtext {
     font-weight: 600;
-    margin: 2px 0 0 30px;
+    font-size: 1.0em;
+    margin: 0;
+}
+
+.currentbrvalue, .rawbrvalue {
+    text-align: center;
+    color: #F60;
+    font-size: 2.0em;
+}
+
+.enellerandentd {
+    vertical-align: top;
 }
