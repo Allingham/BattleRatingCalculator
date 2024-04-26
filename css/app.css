@@ -99,3 +99,15 @@ a, .btn-link {
     .loading-progress-text:after {
         content: var(--blazor-load-percentage-text, "Loading");
     }
+
+body {
+    background-color: #222;
+    color: #FFF;
+}
+
+input {
+    background-color: #06C;
+}
+button {
+
+}
