@@ -9,8 +9,17 @@ h1 {
     font-size: 1.8em;
     border-bottom: 1px solid white;
     width: 470px;
-    margin: 0 0 20px 0;
+    margin: 0 0 5px 0;
     letter-spacing: 4px;
+}
+
+h2 {
+    font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
+    font-size: 1.2em;
+    width: 470px;
+    margin: 0 0 20px 0;
+    letter-spacing: 5px;
+    text-align: center;
 }
 
 h1:focus {
