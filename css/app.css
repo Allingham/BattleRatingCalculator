@@ -108,7 +108,7 @@ a, .btn-link {
 
 body {
     background-color: #000214;
-    background-image: url(BattleRatingCalculator/wtbrc.png);
+    background-image: url("https://allingham.github.io/BattleRatingCalculator/wtbrc.png");
     background-image: url(/wtbrc.png);
     background-repeat: no-repeat;
     background-size: 20%;
