@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BRCalc.dll": "sha256-hzJHxd8ahK\/kElfvWbgFKmAx41XQeHu7NwwVuufBQ94=",
+      "BRCalc.dll": "sha256-iXCwXtPvsyCOr9cv4ouNJ43hHoMgL51dWDtvycheowQ=",
       "Microsoft.AspNetCore.Components.dll": "sha256-kt08M0gzMhL5dwsZV1Md9SGRp5DfUqPJL\/H3p4Wmbt0=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-NXNSPYU7em1AlAnFJ8AJeeltog5RTwLt+SdhtVVCtqA=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-2+ToeRN36ZfEtkp9zMTrXxaWTBvesGRQ8aS31mr1II0=",
