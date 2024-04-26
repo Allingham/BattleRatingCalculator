@@ -212,6 +212,14 @@ button:hover {
     font-size: 2.0em;
 }
 
+.rawbrtext {
+    display: none;
+}
+
+.rawbrvalue {
+    display: none;
+}
+
 .enellerandentd {
     vertical-align: top;
 }
