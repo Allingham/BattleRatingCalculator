@@ -1,7 +1,7 @@
 {
   "entryAssembly": "BRCalc",
   "resources": {
-    "hash": "sha256-VKqv2j0QUVzMeVc4L+fnLS1BgUEqCVgcV1+NcAfy+bE=",
+    "hash": "sha256-/kx5hPrHxeInMIc2vj440IrYWaQLwFxqadz09w8EolM=",
     "runtime": {
       "dotnet.7.0.18.ddjv71i33b.js": "sha256-lsqy0PQ8nf1/0sSlLGe3Kfwi8V0Q1QzVy5+AqtJ3cfU=",
       "dotnet.timezones.blat": "sha256-aPcvvHoFVwCzeRxTOvMTcrI2l2HKJO0sjSN7IF10LUQ=",
@@ -11,7 +11,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "BRCalc.dll": "sha256-Iy146tcdJuYiEIjruCTsmS18CVY7IZnyEOMwZhD/2DM=",
+      "BRCalc.dll": "sha256-akHv9ekiH3dEarLiGyF+v/JJ4WtLrCZG9whRfWUBTnM=",
       "Microsoft.AspNetCore.Components.dll": "sha256-kt08M0gzMhL5dwsZV1Md9SGRp5DfUqPJL/H3p4Wmbt0=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-NXNSPYU7em1AlAnFJ8AJeeltog5RTwLt+SdhtVVCtqA=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-2+ToeRN36ZfEtkp9zMTrXxaWTBvesGRQ8aS31mr1II0=",

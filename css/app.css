@@ -106,8 +106,12 @@ a, .btn-link {
     }
 
 body {
-    background-color: #222;
-    color: #FFF;
+    background-color: #000214;
+    background-image: url(/wtbrc.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    margin: 0 0 0 320px;
+    color: #DDD;
 }
 
 input {
@@ -145,30 +149,39 @@ button {
     font-weight: 600;
     height: 30px;
     outline: 0;
-    padding: 0 10px 0 10px;
-    margin: 0 7px 0 0;
-    min-width: 32px;
+    padding: 0 14px 0 14px;
+    margin: 0 16px 0 0;
+    min-width: 36px;
     text-align: center;
 }
 
 button.raiserating {
-    background-color: #0F0;
-}
+    font-size: 1.2em;
+    }
 
 button.lowerrating {
-
+    font-size: 1.2em;
 }
 
 button.removeplane {
-
+    font-size: 1.2em;
 }
 
 button.addplane {
-    margin: 8px 0 20px 0;
-    padding: 0 60px 0 60px;
+    margin: 16px 0 20px 88px;
+    padding: 0 38px 0 38px;
+    height: 40px;
+    text-align: center;
+    font-size: 1.0em;
 }
 
 button:hover {
     box-shadow: rgba(253, 76, 0, 0.5) 0 3px 8px;
     background-image: linear-gradient(135deg, #FF7E31, #E62C03);
     }
+
+.rawbr,.currentbr {
+    color: #0F0;
+    font-weight: 600;
+    margin: 2px 0 0 30px;
+}
