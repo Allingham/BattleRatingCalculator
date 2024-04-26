@@ -6,6 +6,7 @@ html, body {
 
 h1 {
     font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
+    font-size: 1.8em;
 }
 
 h1:focus {
